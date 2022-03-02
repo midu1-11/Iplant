@@ -1,0 +1,72 @@
+<scroll-view class="content">
+<view class="content_image">
+<image src='{{plant_data3[id]}}'></image>
+</view>
+<view class="data">
+<view class="data_wraper">
+<view class="message">
+<view class="text1">
+<text>{{plant_data2[0]}}</text>
+</view>
+<view class="text2">
+<text>{{plant_data1[id][0]}}</text>
+</view>
+</view>
+</view>
+<view class="divLine" style="opacity:{{0.2}}"></view>
+<view class="data_wraper">
+<view class="message">
+<view class="text1">
+<text>{{plant_data2[1]}}</text>
+</view>
+<view class="text2">
+<text>{{plant_data1[id][1]}}</text>
+</view>
+</view>
+</view>
+<view class="divLine" style="opacity:{{0.2}}"></view>
+<view class="data_wraper">
+<view class="message">
+<view class="text1">
+<text>{{plant_data2[2]}}</text>
+</view>
+<view class="text2">
+<text>{{plant_data1[id][2]}}</text>
+</view>
+</view>
+</view>
+<view class="divLine" style="opacity:{{0.2}}"></view>
+<view class="data_wraper">
+<view class="message">
+<view class="text1">
+<text>{{plant_data2[3]}}</text>
+</view>
+<view class="text2">
+<text>{{plant_data1[id][3]}}</text>
+</view>
+</view>
+</view>
+<view class="divLine" style="opacity:{{0.2}}"></view>
+<view class="data_wraper">
+<view class="message">
+<view class="text1">
+<text>{{plant_data2[4]}}</text>
+</view>
+<view class="text2">
+<text>{{plant_data1[id][4]}}</text>
+</view>
+</view>
+</view>
+<view class="divLine" style="opacity:{{0.2}}"></view>
+<view class="data_wraper">
+<view class="message">
+<view class="text1">
+<text>{{plant_data2[5]}}</text>
+</view>
+<view class="text2">
+<text>{{plant_data1[id][5]}}</text>
+</view>
+</view>
+</view>
+</view>
+</scroll-view>

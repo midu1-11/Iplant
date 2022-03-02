@@ -1,0 +1,35 @@
+.divLine{
+    background: rgb(145, 138, 138);
+    width: 640rpx;
+    height: 3rpx;
+    margin-left: 60rpx;
+  }
+.content_image image{
+    width: 750rpx;
+    height: 750rpx;
+}
+.data_wraper{
+    height: 100rpx;
+}
+.message{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 100rpx;
+}
+.text1{
+    height: 55rpx;
+    width: 60rpx;
+    margin-left: 30rpx;
+    margin-right: 30rpx;
+}
+.text1 text{
+    font-size: 25rpx;
+    writing-mode:horizontal-tb;
+}
+.text2{
+    width: 700rpx;
+}
+.text2 text{
+    font-size: 25rpx;
+}

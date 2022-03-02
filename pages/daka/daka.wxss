@@ -1,0 +1,75 @@
+page{
+    background: #f0f5f1;
+  }
+  .daka_wraper{
+    background-color: white;
+    border-radius: 30rpx;
+    margin-top: 20rpx;
+    margin-bottom: 20rpx;
+    margin-left: 20rpx;
+    margin-right: 20rpx;
+    height: 200rpx;
+    display: flex;
+    align-items: center;
+  }
+  .daka_wraper_logo{
+    height: 140rpx;
+    width: 140rpx;
+    background-color: greenyellow;
+    border-radius: 50rpx;
+    margin-left: 20rpx;
+  }
+  .daka_wraper_logo image{
+    height: 130rpx;
+    width: 130rpx;
+  }
+  .daka_wraper_text{
+    height: 200rpx;
+    width: 400rpx;
+    display: flex;
+    flex-direction: column;
+  }
+  .daka_wraper_button{
+    background-color: lightblue;
+    height: 200rpx;
+    width: 200rpx;
+  }
+  .btn1{
+    background-color: lightblue;
+    height: 200rpx;
+    width: 200rpx;
+    display: flex;
+    flex-direction: column;
+  }
+  .btn1 image{
+    height: 80rpx;
+    width: 80rpx;
+  }
+  .btn1 view{
+    height: 80rpx;
+    width: 80rpx;
+  }
+  .inner_wraper{
+    margin-left: 20rpx;
+  }
+  .daka_wraper_text_up{
+    margin-top: 30rpx;
+    width: 100rpx;
+    margin-left: 150rpx;
+  }
+  .daka_wraper_text_down{
+    margin-top: 30rpx;
+    display: flex;
+    justify-content: space-around;
+  }
+  .daka_wraper_text_down text{
+    font-size: small;
+    color: darkgrey;
+  }
+  .daka_wraper_text_up text{
+    font-weight:bold;
+  }
+  .btn1 text{
+    font-size: small;
+  }
+  

@@ -1,0 +1,45 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/cates/cates",
+    "pages/content/content",
+    "pages/charts/charts",
+    "pages/daka/daka"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#66ff66",
+    "navigationBarTitleText": "Iplant",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "color": "black",
+    "selectedColor": "#d43c33",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "/icon/首页未选中.png",
+        "selectedIconPath": "/icon/首页选中.png"
+      },
+      {"pagePath": "pages/cates/cates",
+        "text": "指南",
+        "iconPath": "/icon/日志 未选中.png",
+        "selectedIconPath": "/icon/日志选中.png"
+      },
+      {"pagePath": "pages/charts/charts",
+        "text": "图表",
+        "iconPath": "/icon/图表未选中.png",
+        "selectedIconPath": "/icon/图表选中.png"
+      },
+      {"pagePath": "pages/daka/daka",
+        "text": "打卡",
+        "iconPath": "/icon/打卡未选中.png",
+        "selectedIconPath": "/icon/打卡选中.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

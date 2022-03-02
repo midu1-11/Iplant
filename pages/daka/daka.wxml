@@ -1,0 +1,146 @@
+<scroll-view>
+<view class="daka_wraper">
+<view class="daka_wraper_logo">
+<image src="https://z3.ax1x.com/2021/09/01/h0lKpV.png"></image>
+</view>
+<view class="daka_wraper_text">
+<view class="daka_wraper_text_up">
+<text>浇水</text>
+</view>
+<view class="daka_wraper_text_down">
+<text>累计打卡{{js_count}}次</text>
+<text>⏳{{js_state}}天前</text>
+</view>
+</view>
+<view class="daka_wraper_button">
+<view class="inner_wraper">
+<button class="btn1" bindtap="jiaoshui">
+<image src="https://z3.ax1x.com/2021/09/01/h0J2y6.png"></image>
+<view>
+<text>打卡</text>
+</view>
+</button>
+</view>
+</view>
+</view>
+<view class="daka_wraper">
+<view class="daka_wraper_logo">
+<image src="https://z3.ax1x.com/2021/09/01/hBpn3t.png"></image>
+</view>
+<view class="daka_wraper_text">
+<view class="daka_wraper_text_up">
+<text>施肥</text>
+</view>
+<view class="daka_wraper_text_down">
+<text>累计打卡{{sf_count}}次</text>
+<text>⏳{{sf_state}}天前</text>
+</view>
+</view>
+<view class="daka_wraper_button">
+<view class="inner_wraper">
+<button class="btn1" bindtap="shifei">
+<image src="https://z3.ax1x.com/2021/09/01/h0J2y6.png"></image>
+<view>
+<text>打卡</text>
+</view>
+</button>
+</view>
+</view>
+</view>
+<view class="daka_wraper">
+<view class="daka_wraper_logo">
+<image src="https://z3.ax1x.com/2021/09/01/hBpBbF.png"></image>
+</view>
+<view class="daka_wraper_text">
+<view class="daka_wraper_text_up">
+<text>松土</text>
+</view>
+<view class="daka_wraper_text_down">
+<text>累计打卡{{st_count}}次</text>
+<text>⏳{{st_state}}天前</text>
+</view>
+</view>
+<view class="daka_wraper_button">
+<view class="inner_wraper">
+<button class="btn1" bindtap="songtu">
+<image src="https://z3.ax1x.com/2021/09/01/h0J2y6.png"></image>
+<view>
+<text>打卡</text>
+</view>
+</button>
+</view>
+</view>
+</view>
+<view class="daka_wraper">
+<view class="daka_wraper_logo">
+<image src="https://z3.ax1x.com/2021/09/01/hBpb8I.png"></image>
+</view>
+<view class="daka_wraper_text">
+<view class="daka_wraper_text_up">
+<text>剪枝</text>
+</view>
+<view class="daka_wraper_text_down">
+<text>累计打卡{{jz_count}}次</text>
+<text>⏳{{jz_state}}天前</text>
+</view>
+</view>
+<view class="daka_wraper_button">
+<view class="inner_wraper">
+<button class="btn1" bindtap="jianzhi">
+<image src="https://z3.ax1x.com/2021/09/01/h0J2y6.png"></image>
+<view>
+<text>打卡</text>
+</view>
+</button>
+</view>
+</view>
+</view>
+<view class="daka_wraper">
+<view class="daka_wraper_logo">
+<image src="https://z3.ax1x.com/2021/09/01/hBpXKf.png"></image>
+</view>
+<view class="daka_wraper_text">
+<view class="daka_wraper_text_up">
+<text>播种</text>
+</view>
+<view class="daka_wraper_text_down">
+<text>累计打卡{{bz_count}}次</text>
+<text>⏳{{bz_state}}天前</text>
+</view>
+</view>
+<view class="daka_wraper_button">
+<view class="inner_wraper">
+<button class="btn1" bindtap="bozhong">
+<image src="https://z3.ax1x.com/2021/09/01/h0J2y6.png"></image>
+<view>
+<text>打卡</text>
+</view>
+</button>
+</view>
+</view>
+</view>
+<view class="daka_wraper">
+<view class="daka_wraper_logo">
+<image src="https://z3.ax1x.com/2021/09/01/hB9hzq.png"></image>
+</view>
+<view class="daka_wraper_text">
+<view class="daka_wraper_text_up">
+<text>嫁接</text>
+</view>
+<view class="daka_wraper_text_down">
+<text>累计打卡{{jj_count}}次</text>
+<text>⏳{{jj_state}}天前</text>
+</view>
+</view>
+<view class="daka_wraper_button">
+<view class="inner_wraper">
+<button class="btn1" bindtap="jiajie">
+<image src="https://z3.ax1x.com/2021/09/01/h0J2y6.png"></image>
+<view>
+<text>打卡</text>
+</view>
+</button>
+</view>
+</view>
+</view>
+</scroll-view>

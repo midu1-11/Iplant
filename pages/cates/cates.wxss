@@ -1,0 +1,37 @@
+.cates_container{
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+  }
+  .cates_wraper{
+    margin-bottom: 20rpx;
+  }
+  .divLine{
+    background: rgb(145, 138, 138);
+    width: 640rpx;
+    height: 3rpx;
+    margin-left: 60rpx;
+  }
+  .data{
+    display: flex;
+    align-items: center;
+    margin-top: 30rpx;
+  }
+  .data_image{
+    margin-left: 50rpx;
+  }
+  .data_image image{
+    width: 130rpx;
+    height: 130rpx;
+    border-radius: 100%;
+  }
+  .data_text{
+    width: 200rpx;
+    height: 34rpx;
+    display: flex;
+    flex-direction: column;
+    margin-left: 30rpx;
+  }
+  .data_text text{
+    font-size: 30rpx;
+  }

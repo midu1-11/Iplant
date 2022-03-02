@@ -1,0 +1,13 @@
+<scroll-view>
+<view class="my-chart">
+<ec-canvas id="lazy-mychart-dom" canvas-id="lazy-mychart" ec="{{lazyEc}}"></ec-canvas>
+</view>
+<view class="divLine" style="opacity:{{0.5}}"></view>
+<view class="my-chart2">
+<ec-canvas id="lazy-mychart-dom2" canvas-id="lazy-mychart2" ec="{{lazyEc2}}"></ec-canvas>
+</view>
+<view class="divLine" style="opacity:{{0.5}}"></view>
+<view class="my-chart3">
+<ec-canvas id="lazy-mychart-dom3" canvas-id="lazy-mychart3" ec="{{lazyEc3}}"></ec-canvas>
+</view>
+</scroll-view>

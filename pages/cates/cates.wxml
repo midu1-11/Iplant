@@ -1,0 +1,224 @@
+<view class="cates">
+<scroll-view class="cates_container">
+<view class="cates_wraper" bindtap="check_detail1">
+<view class="divLine" style="opacity:{{0.2}}"></view>
+<view class="data">
+<view class="data_image">
+  <image src="https://z3.ax1x.com/2021/08/30/htuRGd.jpg"></image>
+</view>
+<view class="data_text">
+  <text>绿萝</text>
+</view>
+</view>
+</view>
+<view class="cates_wraper" bindtap="check_detail2">
+<view class="divLine" style="opacity:{{0.2}}"></view>
+<view class="data">
+<view class="data_image">
+  <image src="https://z3.ax1x.com/2021/08/30/htKUw8.jpg"></image>
+</view>
+<view class="data_text">
+  <text>发财树</text>
+</view>
+</view>
+</view>
+<view class="cates_wraper" bindtap="check_detail3">
+<view class="divLine" style="opacity:{{0.2}}"></view>
+<view class="data">
+<view class="data_image">
+  <image src="https://z3.ax1x.com/2021/08/30/htXlpd.jpg"></image>
+</view>
+<view class="data_text">
+  <text>君子兰</text>
+</view>
+</view>
+</view>
+<view class="cates_wraper" bindtap="check_detail4">
+<view class="divLine" style="opacity:{{0.2}}"></view>
+<view class="data">
+<view class="data_image">
+  <image src="https://z3.ax1x.com/2021/08/30/htX5cR.jpg"></image>
+</view>
+<view class="data_text">
+  <text>红掌</text>
+</view>
+</view>
+</view>
+<view class="cates_wraper" bindtap="check_detail5">
+<view class="divLine" style="opacity:{{0.2}}"></view>
+<view class="data">
+<view class="data_image">
+  <image src="https://z3.ax1x.com/2021/08/30/htXxgA.jpg"></image>
+</view>
+<view class="data_text">
+  <text>吊兰</text>
+</view>
+</view>
+</view>
+<view class="cates_wraper" bindtap="check_detail6">
+<view class="divLine" style="opacity:{{0.2}}"></view>
+<view class="data">
+<view class="data_image">
+  <image src="https://z3.ax1x.com/2021/08/30/htjiE8.jpg"></image>
+</view>
+<view class="data_text">
+  <text>文竹</text>
+</view>
+</view>
+</view>
+<view class="cates_wraper" bindtap="check_detail7">
+<view class="divLine" style="opacity:{{0.2}}"></view>
+<view class="data">
+<view class="data_image">
+  <image src="https://z3.ax1x.com/2021/08/30/htjKbV.jpg"></image>
+</view>
+<view class="data_text">
+  <text>茉莉花</text>
+</view>
+</view>
+</view>
+<view class="cates_wraper" bindtap="check_detail8">
+<view class="divLine" style="opacity:{{0.2}}"></view>
+<view class="data">
+<view class="data_image">
+  <image src="https://z3.ax1x.com/2021/08/30/htjYvR.jpg"></image>
+</view>
+<view class="data_text">
+  <text>紫檀</text>
+</view>
+</view>
+</view>
+<view class="cates_wraper" bindtap="check_detail9">
+<view class="divLine" style="opacity:{{0.2}}"></view>
+<view class="data">
+<view class="data_image">
+  <image src="https://z3.ax1x.com/2021/08/30/htj0UO.jpg"></image>
+</view>
+<view class="data_text">
+  <text>幸福树</text>
+</view>
+</view>
+</view>
+<view class="cates_wraper" bindtap="check_detail10">
+<view class="divLine" style="opacity:{{0.2}}"></view>
+<view class="data">
+<view class="data_image">
+  <image src="https://z3.ax1x.com/2021/08/30/hN9puj.jpg"></image>
+</view>
+<view class="data_text">
+  <text>虎尾兰</text>
+</view>
+</view>
+</view>
+<view class="cates_wraper" bindtap="check_detail11">
+<view class="divLine" style="opacity:{{0.2}}"></view>
+<view class="data">
+<view class="data_image">
+  <image src="https://z3.ax1x.com/2021/08/30/hNCQyQ.jpg"></image>
+</view>
+<view class="data_text">
+  <text>栀子花</text>
+</view>
+</view>
+</view>
+<view class="cates_wraper" bindtap="check_detail12">
+<view class="divLine" style="opacity:{{0.2}}"></view>
+<view class="data">
+<view class="data_image">
+  <image src="https://z3.ax1x.com/2021/08/30/hNP6Bj.jpg"></image>
+</view>
+<view class="data_text">
+  <text>月季</text>
+</view>
+</view>
+</view>
+<view class="cates_wraper" bindtap="check_detail13">
+<view class="divLine" style="opacity:{{0.2}}"></view>
+<view class="data">
+<view class="data_image">
+  <image src="https://z3.ax1x.com/2021/08/30/hNiV8f.jpg"></image>
+</view>
+<view class="data_text">
+  <text>一帆风顺</text>
+</view>
+</view>
+</view>
+<view class="cates_wraper" bindtap="check_detail14">
+<view class="divLine" style="opacity:{{0.2}}"></view>
+<view class="data">
+<view class="data_image">
+  <image src="https://z3.ax1x.com/2021/08/30/hNiaqJ.jpg"></image>
+</view>
+<view class="data_text">
+  <text>玫瑰</text>
+</view>
+</view>
+</view>
+<view class="cates_wraper" bindtap="check_detail15">
+<view class="divLine" style="opacity:{{0.2}}"></view>
+<view class="data">
+<view class="data_image">
+  <image src="https://z3.ax1x.com/2021/08/30/hNisG6.jpg"></image>
+</view>
+<view class="data_text">
+  <text>金钱树</text>
+</view>
+</view>
+</view>
+<view class="cates_wraper" bindtap="check_detail16">
+<view class="divLine" style="opacity:{{0.2}}"></view>
+<view class="data">
+<view class="data_image">
+  <image src="https://z3.ax1x.com/2021/08/30/hNigMD.jpg"></image>
+</view>
+<view class="data_text">
+  <text>长寿花</text>
+</view>
+</view>
+</view>
+<view class="cates_wraper" bindtap="check_detail17">
+<view class="divLine" style="opacity:{{0.2}}"></view>
+<view class="data">
+<view class="data_image">
+  <image src="https://z3.ax1x.com/2021/08/30/hNFMQO.jpg"></image>
+</view>
+<view class="data_text">
+  <text>蟹爪兰</text>
+</view>
+</view>
+</view>
+<view class="cates_wraper" bindtap="check_detail18">
+<view class="divLine" style="opacity:{{0.2}}"></view>
+<view class="data">
+<view class="data_image">
+  <image src="https://z3.ax1x.com/2021/08/30/hNF3eH.jpg"></image>
+</view>
+<view class="data_text">
+  <text>兰花</text>
+</view>
+</view>
+</view>
+<view class="cates_wraper" bindtap="check_detail19">
+<view class="divLine" style="opacity:{{0.2}}"></view>
+<view class="data">
+<view class="data_image">
+  <image src="https://z3.ax1x.com/2021/08/30/hNFtYt.jpg"></image>
+</view>
+<view class="data_text">
+  <text>茶花</text>
+</view>
+</view>
+</view>
+<view class="cates_wraper" bindtap="check_detail20">
+<view class="divLine" style="opacity:{{0.2}}"></view>
+<view class="data">
+<view class="data_image">
+  <image src="https://z3.ax1x.com/2021/08/30/hNFw6S.jpg"></image>
+</view>
+<view class="data_text">
+  <text>薄荷</text>
+</view>
+</view>
+</view>
+</scroll-view>
+</view>
